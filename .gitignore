@@ -1,4 +1,10 @@
 *.class
+bin
+obj
+libs
+*~
+*.o
+*.d
 
 # Package Files #
 *.jar
